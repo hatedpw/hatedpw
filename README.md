@@ -11,24 +11,9 @@
 </h5>
 <br>
 <p align="center">
-  Hi, Kurtis, an aspiring software engineering who has a significant interest in application security.
+  My ideal date includes malloc. Spreading the application, revealing the exploit.
   <br>
   <br>
-  💻 I love writing clean code and diving deep into suecrity!
+  💻 brrrrrrrrrrrrrr GO/C/PYTHON
 </p>
-
-<hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br>
-<p align="center">
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-</p>
-<hr>
-
 
