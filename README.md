@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=WHY+ALLO+THAR;WHAT+R+U+DOIN+IN+MY+SWAMP;EXPLOIT+HARD+EXPLOIT+FAST!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=EXPLOIT+HARD;EXPLOIT+FAST!&center=true&size=30">
   </a>
 </h1>
 <h5 align="center">
