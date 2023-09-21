@@ -9,7 +9,7 @@
 </h5>
 <br>
 <p align="center">
-  My ideal date includes malloc. Spreading the application, revealing the exploit.
+  Automating myself out of a job one script at a time. Cyber Intelligence/cloud security. 
   <br>
   <br>
   💻 brrrrrrrrrrrrrr GO/C/PYTHON
